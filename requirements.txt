@@ -1,4 +1,4 @@
 build-essentials
 git
 cmake
-libboost1.55-all-dev
+libboost-all-dev
